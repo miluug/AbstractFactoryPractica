@@ -4,7 +4,7 @@ public class QuesoMozarella implements Queso {
 
     @Override
     public String descripcion (){
-        return "Queso mozarella";
+        return "Queso Mozarella";
     }
 
     @Override

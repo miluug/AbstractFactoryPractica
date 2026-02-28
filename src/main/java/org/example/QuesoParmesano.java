@@ -1,13 +1,14 @@
 package org.example;
 
-public class MasaGruesa implements Masa {
+public class QuesoParmesano implements Queso {
+
     @Override
     public String descripcion (){
-        return "Masa Gruesa";
+        return "Queso Parmesano";
     }
 
     @Override
     public double precio() {
-        return 5.0;
+        return 3.8;
     }
 }
